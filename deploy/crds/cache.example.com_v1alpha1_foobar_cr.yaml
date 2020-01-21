@@ -1,0 +1,6 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Foobar
+metadata:
+  name: example-foobar
+spec:
+  input: "world"
